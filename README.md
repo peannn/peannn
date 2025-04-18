@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nur Ikhwan Alfiansyah a.k.a pean</h1>
+<h1 align="center">Hi 👋, I'm Nur Ikhwan Alfiansyah a.k.a pian</h1>
 <h3 align="center">I'm a curious mind with a strong passion for Digital Forensics, Cyber Security, and Data Analytics. I live at the intersection of data and defense—where every log tells a story, every byte could be evidence, and every anomaly has meaning.</h3>
 
 <h3 align="left">Connect with me:</h3>
