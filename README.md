@@ -2,8 +2,6 @@
 
 ### Interested in software development, data analysis, and business process improvement, with a passion for solving real-world problems.
 
-- 📫 How to reach me **nurichwanalfiansyah953@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/peannn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="peannn" height="30" width="40" /></a>
